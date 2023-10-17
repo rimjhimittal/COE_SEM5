@@ -1,0 +1,15 @@
+Outlook,Temp,Humidity,Windy,Play
+rainy,hot,high,0,0
+rainy,hot,high,1,0
+overcast,hot,high,0,1
+sunny,mild,high,0,1
+sunny,cool,normal,0,1
+sunny,cool,normal,1,0
+overcast,cool,normal,1,1
+rainy,mild,high,0,0
+rainy,cool,normal,0,1
+sunny,mild,normal,0,1
+rainy,mild,normal,1,1
+overcast,mild,high,1,1
+overcast,hot,normal,0,1
+sunny,mild,high,1,0
